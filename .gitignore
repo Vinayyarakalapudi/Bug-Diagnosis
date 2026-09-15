@@ -1,0 +1,13 @@
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/knowledge_base/*
+!backend/knowledge_base/.gitkeep
+backend/chroma_db/*
+!backend/chroma_db/.gitkeep
+backend/.env
+frontend/.env
+frontend/node_modules
+frontend/dist
+__pycache__/
+*.pyc
+.DS_Store
